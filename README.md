@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <a href="https:
+  <a href="https:https://yuvrajrana-sys.github.io/html/calculator >
     <img src="static/productSs.png" alt="Logo" width="640" height="560">
   </a>
   <h3 align="center">Calculator Project</h3>
