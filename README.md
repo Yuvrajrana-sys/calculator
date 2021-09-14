@@ -1,9 +1,4 @@
-<!--
-*** Thanks for checking out this Project. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
+
 
 
 
@@ -12,13 +7,9 @@
 *** I'm using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -26,11 +17,11 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/princegoyal-dev/Web-Dev-Project-Calculator">
+  <a href="https:
     <img src="static/productSs.png" alt="Logo" width="640" height="560">
   </a>
   <h3 align="center">Calculator Project</h3>
-  <h2 align="center">https://calculator-by-prince.herokuapp.com/</h2>
+  <h2 align="center">https://calculator-by-yuvraj and akhilla/</h2>
   <p align="center">
     An awesome calculator project with keyboard and click functionality
 
@@ -85,67 +76,3 @@ This section should list any major frameworks that you built your project using.
 * [JAVASCRIPT]
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/princegoyal-dev/Web-Dev-Project-Calculator
-   ```
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/princegoyal-dev/Web-Dev-Project-Calculator/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)  ||  For enhancements or resolved issues you can create a pull request for master branch directly
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-<!-- CONTACT -->
-## Contact
-
-Prince Goyal - [@princegoyal-dev](https://www.linkedin.com/in/princegoyal-dev/) - princegoyal.dev@gmail.com
-
-Project Link: [Web-Dev-Project-Calculator](https://github.com/princegoyal-dev/Web-Dev-Project-Calculator)
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/princegoyal-dev/Web-Dev-Project-Calculator?style=for-the-badge
-[contributors-url]: https://github.com/princegoyal-dev/Web-Dev-Project-Calculator/graphs/contributors
-
-[forks-shield]: https://img.shields.io/github/forks/princegoyal-dev/Web-Dev-Project-Calculator?style=for-the-badge
-[forks-url]: https://github.com/princegoyal-dev/Web-Dev-Project-Calculator/network/members
-
-[stars-shield]: https://img.shields.io/github/stars/princegoyal-dev/Web-Dev-Project-Calculator?style=for-the-badge
-
-[stars-url]: https://github.com/princegoyal-dev/Web-Dev-Project-Calculator/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/princegoyal-dev/Web-Dev-Project-Calculator?style=for-the-badge
-
-[issues-url]: https://github.com/princegoyal-dev/Web-Dev-Project-Calculator/issues
-
-[linkedin-shield]: https://img.shields.io/badge/Linkedin-princegoyal--dev-lightgrey?style=for-the-badge
-
-[linkedin-url]: https://www.linkedin.com/in/princegoyal-dev/
-
-[product-screenshot]: static/productSs.png
